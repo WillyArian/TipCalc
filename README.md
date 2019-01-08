@@ -1,2 +1,2 @@
 # TipCalc
-Proyect made in Android Studio
+Project made in Android Studio
